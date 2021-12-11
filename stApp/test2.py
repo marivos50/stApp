@@ -8,9 +8,9 @@ Created on Sat Dec 11 15:35:45 2021
 import streamlit as st
 from PIL import Image
 
-import seaborn as sns
-import pandas as pd 
-import numpy as np
+#import seaborn as sns
+#import pandas as pd 
+#import numpy as np
 
 DATA_URL = ("penguins.csv")
 
