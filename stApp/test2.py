@@ -7,8 +7,8 @@ Created on Sat Dec 11 15:35:45 2021
 
 import streamlit as st
 from PIL import Image
-import matplotlib.pyplot as plt 
-import matplotlib
+
+
 matplotlib.use("Agg")
 import seaborn as sns
 import pandas as pd 
