@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 11 15:35:45 2021
-@author: Mari
-"""
-
 import streamlit as st
 from PIL import Image
 
