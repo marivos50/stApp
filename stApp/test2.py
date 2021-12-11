@@ -8,8 +8,6 @@ Created on Sat Dec 11 15:35:45 2021
 import streamlit as st
 from PIL import Image
 
-
-matplotlib.use("Agg")
 import seaborn as sns
 import pandas as pd 
 import numpy as np
