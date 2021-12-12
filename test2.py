@@ -9,7 +9,7 @@ img=Image.open("yo.jpeg")
 st.image(img,width=100)
 
 if st.button("Saludame"):    
-    st.markdown("Me llamo Mari, y te la bienvenida a mi pagina streamlit")
+    st.markdown("Me llamo Mari, y te doy la bienvenida a mi pagina streamlit")
     #Ballons
     st.balloons()
 
