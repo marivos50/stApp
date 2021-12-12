@@ -8,8 +8,8 @@ from PIL import Image
 
 st.markdown("# stApp")
 st.markdown("Explore the dataset to know more about palmerpenguins")
-img=Image.open("yo.png")
-st.image(img,width=100)
+#img=Image.open("yo.png")
+#st.image(img,width=100)
 st.markdown("**Marichat** Un chatbot para preguntar sobre programación in Python")
 st.text_area("usuario", value="", height=None, max_chars=None, key=None, help="escribe tu pregunta aquí")
 if st.button("Saludame"):    
