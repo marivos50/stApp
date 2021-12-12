@@ -11,7 +11,7 @@ st.markdown("Explore the dataset to know more about palmerpenguins")
 img=Image.open("yo.png")
 st.image(img,width=100)
 st.markdown("**Marichat** Un chatbot para preguntar sobre programación in Python")
-st.text_area(label="usuario", value="", height=None, max_chars=None, key=None, help="escribe tu pregunta aquí", on_change=None, args=None, kwargs=None, *, placeholder=None)
+st.text_area(label="usuario", value="", height=None, max_chars=None, key=None, help="escribe tu pregunta aquí", on_change=None, args=None, kwargs=None, * , placeholder=None)
 if st.button("Saludame"):    
     st.markdown("Me llamo Mari, y te doy un beso de bienvenida a mi pagina streamlit")
     #Ballons
